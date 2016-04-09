@@ -1,0 +1,28 @@
+name: test site for me
+favicon: null
+layout_spectrum: 0.2903088922612369
+typography_spectrum: 0.33599826670251787
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.858352291630581
+  lightness: 0.9157916873227805
+  saturation: 0.8711129773873836
+  rhythmicContrast: 0.34737097658216953
+purpose: []
